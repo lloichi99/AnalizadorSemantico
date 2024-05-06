@@ -1,0 +1,10 @@
+public class prueba()
+{
+int x = 2;
+public void main(){
+	int y = 1;
+}
+public void kebin(){
+	double j = 3.5;
+}
+}
